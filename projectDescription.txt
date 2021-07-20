@@ -1,11 +1,8 @@
 The Expat Woman Hackathn 2021 - Choose a Challenge
 Date:
-<<<<<<< HEAD
+
 Author: me!
 
 adding a new line in visual studio
-=======
-Author:
 
-this is a new line
->>>>>>> 7a4b0dcd86c31c0df7808a1ef299e8410e590367
+new line!
